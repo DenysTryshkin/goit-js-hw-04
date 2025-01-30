@@ -38,8 +38,6 @@ Here's the code to check your function:
 
 js
 
-КопіюватиРедагувати
-
 `console.log(
   isEnoughCapacity({ apples: 2, grapes: 3, carrots: 1 }, 8)
 ); // true
@@ -77,8 +75,6 @@ Write a function `calcAverageCalories(days)` that returns the average daily ca
 Here's the code to check your function:
 
 js
-
-КопіюватиРедагувати
 
 `console.log(
   calcAverageCalories([
@@ -127,8 +123,6 @@ The `profile` object describes the user's profile on a gaming platform. It con
 
 js
 
-КопіюватиРедагувати
-
 `const profile = {
     username: "Jacob",
     playTime: 300,
@@ -143,8 +137,6 @@ Add methods to the `profile` object to work with its properties.
 Here's the code to check your function:
 
 js
-
-КопіюватиРедагувати
 
 `console.log(profile.getInfo()); // "Jacob has 300 active hours!"
 
